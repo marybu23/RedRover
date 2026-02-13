@@ -3,7 +3,7 @@
 # b = int(input())
 # c = int(input())
 # print((a+b+c)/3)
-from itertools import count
+#from itertools import count
 
 # celsius = int(input("Введите температуру в С°: "))
 # f = float((9/5 * celsius) + 32)
