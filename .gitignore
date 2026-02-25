@@ -1,2 +1,8 @@
 .DS_Store
-.DS_Store
+.venv/
+# PyCharm
+.idea/
+*.iml
+__pycache__/
+*.py[cod]
+*.pyo
